@@ -4,5 +4,5 @@ Here is a demo video
 
 
 
-https://github.com/Surbh77/Anamoly-Detection/assets/108724393/8e249950-7f8f-41a6-a266-82e0a0cf4cfe
+https://github.com/Surbh77/Anamoly-Detection/assets/108724393/7cfb72f1-a92f-45ed-8b0c-a91e71554826
 
