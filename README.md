@@ -1,4 +1,6 @@
 # Anamoly-Detection
+Teaming up with Generative AI and RAG, we've developed a cutting-edge solution to streamline telecom network performance analysis. Our innovation provides real-time insights, empowering engineers to resolve issues swiftly and boost network efficiency. Stay tuned for more updates on how our project is making waves in the industry! 
+
 
 Here is a demo video
 
